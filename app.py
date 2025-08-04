@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import matplotlib.pyplot as plt
 import seaborn as sns
 
 from utils import load_data, train_kmeans, calculate_wcss, calculate_silhouette
