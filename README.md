@@ -1,8 +1,8 @@
-# 🛍️ Mall Customer Segmentation using KMeans Clustering
+#  Mall Customer Segmentation using KMeans Clustering
 
 This project applies unsupervised learning to segment mall customers based on purchasing behavior and demographic data.
 
-## 📊 Dataset
+##  Dataset
 
 - **Source:** Provided internally (`mall_customers.csv`)
 - **Features used:**
@@ -10,11 +10,11 @@ This project applies unsupervised learning to segment mall customers based on pu
   - Annual Income (k$)
   - Spending Score (1–100)
 
-## 💡 Objective
+## Objective
 
 Use **KMeans Clustering** to identify distinct customer segments and assist in marketing strategy personalization.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python
 - Streamlit (Web App)
@@ -22,7 +22,7 @@ Use **KMeans Clustering** to identify distinct customer segments and assist in m
 - Pandas
 - Seaborn & Matplotlib
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository:
    ```bash
